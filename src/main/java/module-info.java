@@ -1,6 +1,7 @@
 module org.example.quizfx {
     requires javafx.controls;
     requires javafx.fxml;
+    requires java.sql;
 
     opens com.quizfx to javafx.fxml;
     opens com.quizfx.controllers to javafx.fxml;
