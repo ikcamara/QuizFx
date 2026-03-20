@@ -6,9 +6,10 @@
 <?import javafx.scene.shape.Rectangle?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="720.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx/25" xmlns:fx="http://javafx.com/fxml/1">
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="720.0" prefWidth="1280.0"
+            xmlns="http://javafx.com/javafx/25" xmlns:fx="http://javafx.com/fxml/1">
     <children>
-        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#2196F3" height="54.0" layoutX="0.0" layoutY="0.0" width="1280.0" />
+        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#2196F3" height="54.0" layoutX="1280.0" layoutY="0.0" width="1280.0" />
         <Label layoutX="20.0" layoutY="15.0" text="QuizFx" textFill="WHITE">
         <font>
             <Font size="24.0" />
